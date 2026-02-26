@@ -4,5 +4,11 @@
     "url": "wss://employed-baby-potentially-think.trycloudflare.com/ws",
     "sector": "CORE-01',
     "is_certified": true 
+  },
+  {
+    "name": "UPLINK BETA",
+    "url": "wss://queen-sympathy-opportunities-mat.trycloudflare.com/ws",
+    "sector": "CORE-02",
+    "is_certified": true
   }
 ]
