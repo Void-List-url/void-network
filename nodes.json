@@ -1,14 +1,33 @@
 [
   {
     "name": "UPLINK ALPHA",
-    "url": "wss://ref-california-anonymous-news.trycloudflare.com/ws",
+    "url": "wss://fixtures-gourmet-artificial-nowhere.trycloudflare.com/ws",
     "sector": "CORE-01",
     "is_certified": true 
   },
   {
     "name": "UPLINK BETA",
-    "url": "wss://queen-sympathy-opportunities-mat.trycloudflare.com/ws",
+    "url": "wss://glen-commander-offerings-analyst.trycloudflare.com/ws",
     "sector": "CORE-02",
     "is_certified": true
+  },
+  {
+    "name": "UPLINK GAMMA",
+    "url": "wss://prescription-infections-retrieval-grounds.trycloudflare.com/ws",
+    "sector": "CORE-03",
+    "is_certified": true 
+  },
+  {
+    "name": "UPLINK DELTA",
+    "url": "wss://shortly-substitute-eco-concentration.trycloudflare.com/ws",
+    "sector": "CORE-04",
+    "is_certified": true 
+  },
+  {
+    "name": "UPLINK EPSILON",
+    "url": "wss://idol-communications-fellow-amanda.trycloudflare.com/ws",
+    "sector": "CORE-05",
+    "is_certified": true 
   }
+  
 ]
